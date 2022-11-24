@@ -1,5 +1,5 @@
 
-public class Method_Overloading1 {
+ public class Method_Overloading1 {
 	
 	// Method Overloading means same method name but different parameters
 	
