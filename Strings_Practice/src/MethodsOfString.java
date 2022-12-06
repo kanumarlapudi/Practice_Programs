@@ -4,7 +4,7 @@ public class MethodsOfString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// lengthOf() method
+		// length() method
 		String s = "Harish";
 		System.out.println("The length of " + s + " is : " + s.length());
 		
@@ -71,9 +71,12 @@ public class MethodsOfString {
 										
 		System.out.println();
 		
-		
-							
-				
+		//split
+		String s11 = "harish hi";
+		String arr[] = s11.split(" ");   //splits the string based on whitespace
+		for(String s12 : arr) {
+			System.out.println(s12);
+		}
 		
 		}
 
