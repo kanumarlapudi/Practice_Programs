@@ -78,6 +78,14 @@ public class MethodsOfString {
 			System.out.println(s12);
 		}
 		
+		System.out.println();
+		
+		String s12="ABC";
+		byte[] b=s12.getBytes(); 
+		for(int i=0;i<b.length;i++){ 
+		System.out.print(b[i]+" " );
+
 		}
+	}
 
 }
