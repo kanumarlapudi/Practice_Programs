@@ -5,7 +5,9 @@ public class Student {
 	private int age;
 	private int id;
 	private String name;
-		
+	
+	//this is done by constructor
+	
 	Student(int age , int id, String name){	
 		this.age = age;
 		this.id = id;

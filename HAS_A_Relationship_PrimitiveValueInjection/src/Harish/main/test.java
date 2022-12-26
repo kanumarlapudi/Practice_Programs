@@ -1,6 +1,10 @@
 package Harish.main;
 
-//  For this writing the package name must be same thats it we can achieve relationship between 2 classes
+//  For this writing the package name must be same 
+
+/* Dependancy Injection
+==================
+ The process of injecting dependant object into target object is called as "Dependancy injection". */
 
 public class test {
 
