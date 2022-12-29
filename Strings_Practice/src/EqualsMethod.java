@@ -17,7 +17,7 @@ public class EqualsMethod {
 		
 		StringBuilder s4 = new StringBuilder("Dhoni ");
 		StringBuilder s5 = new StringBuilder("Dhoni ");
-		System.out.println(s4.equals(s5));      // == compares address of the object not content
+		System.out.println(s4.equals(s5));      // == compares address of the object not content, to check content convert stringBuilder to tostring
 		
        // StringBuilder methods all are same in stringBuffer 
 		
