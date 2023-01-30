@@ -6,6 +6,8 @@ public class ArrayList1 {
 		
 		//homogenious type of data is allowed
 		ArrayList al = new ArrayList();
+		//it follows dynamic data structure
+		
 		al.add(10);
 		al.add(20);
 		al.add(30);

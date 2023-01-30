@@ -5,6 +5,8 @@ public class LinkedList1 {
 	public static void main(String[] args) {
 		
 		LinkedList ll = new LinkedList();
+		//it follows double linked list datastructure
+		
 		//adding the elements into collection
 		ll.add("Harish");
 		ll.add(180020034);

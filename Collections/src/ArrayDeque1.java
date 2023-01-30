@@ -5,6 +5,8 @@ public class ArrayDeque1 {
 	public static void main(String[] args) {
 		
 		ArrayDeque ad = new ArrayDeque();
+		//it follows double ended queue datastructure
+		
 		ad.add(10);
 		ad.add("Harish");
 		ad.add(180020034);
